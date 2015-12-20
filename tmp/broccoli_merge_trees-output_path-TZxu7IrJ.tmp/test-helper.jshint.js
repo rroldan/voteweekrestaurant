@@ -1,0 +1,1 @@
+/Users/rroldan/Documents/emberProjects/voteweekrestaurant/tmp/broccoli_merge_trees-input_base_path-UV5SkhIC.tmp/0/test-helper.jshint.js
